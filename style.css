@@ -1,0 +1,26 @@
+form{
+    text-align: center;
+   justify-content: center;
+    background-color:blanchedalmond;
+    height: fit-content;
+    width: fit-content;
+    border-color : rgb(210,17,81);
+    border-width: 5px;
+
+}
+h1{
+    color:blueviolet;
+}
+body{
+    justify-content: center;
+}
+#btn{
+    color: white;
+    background-color: rgb(176, 109, 131);
+    height: 40px;
+    width: 70px;
+    align-self: center;
+    margin-top:20px;
+    border-radius: 0.5rem;
+    margin-bottom: 30px;
+}
